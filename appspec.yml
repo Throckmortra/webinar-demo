@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: target/webinar-demo-0.0.1-SNAPSHOT.war
+  - source: webinar-demo-0.0.1-SNAPSHOT.war
     destination: /var/lib/tomcat8/webapps/ROOT.war
